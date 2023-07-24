@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ram",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "Sita",
+      "gender": "female"
+    },
+    {
+      "id": 3,
+      "name": "Gita",
+      "gender": "female"
+    },
+    {
+      "name": "Tenetur non impedit",
+      "gender": "Male",
+      "id": 4
+    },
+    {
+      "name": "Quidem fugiat aperia",
+      "gender": "Male",
+      "id": 5
+    },
+    {
+      "name": "Voluptatem quo quaer",
+      "gender": "Female",
+      "id": 6
+    },
+    {
+      "name": "Eu sit sint quia lab",
+      "gender": "Male",
+      "id": 7
+    },
+    {
+      "name": "Ipsa facere ex illo",
+      "gender": "Male",
+      "id": 8
+    }
+  ]
+}
